@@ -6,7 +6,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=EmanueleManno)](https://git.io/streak-stats)
 
 
-## Tecnologie
+## Tecnologiea
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,bootstrap)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vue,mysql,sass)](https://skillicons.dev)
