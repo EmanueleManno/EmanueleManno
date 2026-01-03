@@ -2,8 +2,7 @@
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=EmanueleManno&repo=EmanueleManno&countColor=%237B1E7A)
 
-##
-# Statistiche:
+## Statistiche:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=EmanueleManno)](https://git.io/streak-stats)
 
 
